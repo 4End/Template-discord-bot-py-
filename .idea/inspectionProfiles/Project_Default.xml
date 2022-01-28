@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="nextcord" />
+            <item index="1" class="java.lang.String" itemvalue="chardet" />
+            <item index="2" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="3" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="4" class="java.lang.String" itemvalue="multidict" />
+            <item index="5" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="6" class="java.lang.String" itemvalue="yarl" />
+            <item index="7" class="java.lang.String" itemvalue="discord.py" />
+            <item index="8" class="java.lang.String" itemvalue="youtube-dl" />
+            <item index="9" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="10" class="java.lang.String" itemvalue="attrs" />
+            <item index="11" class="java.lang.String" itemvalue="idna" />
+            <item index="12" class="java.lang.String" itemvalue="wavelink" />
+            <item index="13" class="java.lang.String" itemvalue="websockets" />
+            <item index="14" class="java.lang.String" itemvalue="dismusic" />
+            <item index="15" class="java.lang.String" itemvalue="discord" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="discord.ext.commands.bot.Bot.add_reaction" />
+          <option value="main.ban_members" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
